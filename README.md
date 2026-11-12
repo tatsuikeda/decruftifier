@@ -71,3 +71,7 @@ Shows elapsed time, index size, worker CPU usage, and auto-detects completion.
 - Intel and Apple Silicon Macs
 - macOS 12 Monterey through macOS 26 Tahoe (and probably older)
 - No dependencies beyond what ships with macOS
+
+## License
+
+MIT. See [LICENSE](LICENSE).
